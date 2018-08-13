@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: e8d36d14b08a8664883e25509f43e70b
+timeCreated: 1534027000
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body
+    100002: Box001
+    100004: chassis
+    100006: door
+    100008: //RootNode
+    100010: Object001
+    100012: Plane002
+    100014: tank
+    100016: wall_right
+    100018: wheel_left
+    100020: wheel_right
+    100022: wheel_zapas
+    400000: body
+    400002: Box001
+    400004: chassis
+    400006: door
+    400008: //RootNode
+    400010: Object001
+    400012: Plane002
+    400014: tank
+    400016: wall_right
+    400018: wheel_left
+    400020: wheel_right
+    400022: wheel_zapas
+    2100000: wands
+    2100002: body
+    2100004: chassis
+    2100006: wheel
+    2100008: doors
+    2100010: tank
+    2300000: body
+    2300002: Box001
+    2300004: chassis
+    2300006: door
+    2300008: Object001
+    2300010: Plane002
+    2300012: tank
+    2300014: wall_right
+    2300016: wheel_left
+    2300018: wheel_right
+    2300020: wheel_zapas
+    3300000: body
+    3300002: Box001
+    3300004: chassis
+    3300006: door
+    3300008: Object001
+    3300010: Plane002
+    3300012: tank
+    3300014: wall_right
+    3300016: wheel_left
+    3300018: wheel_right
+    3300020: wheel_zapas
+    4300000: body
+    4300002: Plane002
+    4300004: chassis
+    4300006: wall_right
+    4300008: wheel_left
+    4300010: wheel_right
+    4300012: wheel_zapas
+    4300014: Object001
+    4300016: door
+    4300018: tank
+    4300020: Box001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 16c1986e160a49041b510e963b80654d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chassis
+    second: {fileID: 2100000, guid: c8470179213993f45938514c6116493e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doors
+    second: {fileID: 2100000, guid: 996be220b07aab445aa3e55773a98951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tank
+    second: {fileID: 2100000, guid: 3e04f4c360ffbfe45a219e995a5f835e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wands
+    second: {fileID: 2100000, guid: 6f9d1fcd4bd33364384275881490fb26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel
+    second: {fileID: 2100000, guid: d175e130e3e5d5341aab99410cd33383, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
